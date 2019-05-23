@@ -9,4 +9,4 @@ can be found in `/backend/database/index.js`, `/backend/index.js`, endpoint in `
 
 ## For launching your on your own pc
 
-`npm install` and `npm start` on /frontend folder
+`npm install` and `npm start` in /frontend folder
